@@ -1,0 +1,5 @@
+P1 : Multistrike
+P2 : Red strike
+P1 : Red strike
+P2 : Strike
+P1 : Multistrike
